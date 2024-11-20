@@ -3,6 +3,8 @@
 
 
 This is a simple Reminder App built using Tally, Forms, Pabbly, and Gmail. The app allows users to submit reminders via forms and automatically sends email notifications to remind them about the tasks at specified intervals.
+## Project Doc
+[view Reminder App]{https://tally.so/r/3EBx2L}
 
 ## Overview
 
